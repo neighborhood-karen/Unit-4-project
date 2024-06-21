@@ -51,6 +51,15 @@ body {
     width: 100%;
 }
 
+button {
+    background-color: white;
+    border: white solid 0px;
+}
+
+input {
+    display: flex;
+}
+
 .choices {
     display: flex;
     justify-content: center;
