@@ -35,6 +35,17 @@ body {
     width: 100%;
 }
 
+.radiobtns {
+    display: flex;
+    justify-content: center;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 .questions h4 {
     color: #666;
     width: 100%;
