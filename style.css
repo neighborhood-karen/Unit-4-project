@@ -46,6 +46,11 @@ body {
     margin-top: 20px;
 }
 
+.submit button {
+    background-color: lightgray;
+    border: darkgray solid 1px;
+}
+
 .questions h4 {
     color: #666;
     width: 100%;
